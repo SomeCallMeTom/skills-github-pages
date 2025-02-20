@@ -1,6 +1,6 @@
 ---
 title: Welcome to my blog
-author: @SomeCallMeTom
+author: SomeCallMeTom
 ---
 # Whatup Bitches!
 
